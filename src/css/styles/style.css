@@ -13167,6 +13167,11 @@ a.read_more i {
   box-shadow: 5px 25px 15px 0px rgba(0, 0, 0, 0.1);
 }
 
+.img-fluid {
+  height: 100%;
+  width: 100%;
+}
+
 .img-fullwidth {
   width: 100%;
   height: auto;
@@ -15463,6 +15468,7 @@ img {
   }
 }
 
+
 /* -------------------------------------------------- 
     design for 768px
     /* ================================================== */
@@ -16262,6 +16268,10 @@ img {
 
   .nft__item_lg h2 {
     margin-top: 40px;
+  }
+
+  .item_info {
+    padding: 0;
   }
 
   #items-carousel-big .owl-prev,

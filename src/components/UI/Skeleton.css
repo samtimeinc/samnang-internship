@@ -1,0 +1,6 @@
+.skeleton-box {
+  background-color: #dddbdd !important;
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+}
